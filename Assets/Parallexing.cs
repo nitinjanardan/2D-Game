@@ -15,6 +15,7 @@ public class Parallexing : MonoBehaviour {
     {
         // set up thecamera reference
         cam = Camera.main.transform;
+
     }
 
 
